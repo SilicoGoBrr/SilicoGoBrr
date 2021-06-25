@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SilicoGoBrr
+- 👀 I’m interested in Data analysis, Biology, Bioinformatics, Biotech, and making all of that easier for anyone interested.
+- 🌱 I’m currently learning python and R
+- 💞️ I’m looking to LEARN and collaborate
+- 📫 How to reach me: DM me right here!
